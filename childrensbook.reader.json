@@ -1,0 +1,1312 @@
+{
+  "Category": [
+    {
+      "id": "1000",
+      "parent_id": "0",
+      "title": "বাংলা",
+      "icon": "",
+      "sort_weight": "1"
+    },
+    {
+      "id": "2001",
+      "parent_id": "1000",
+      "title": "আম পাতা জোড়া জোড়া",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/01.jpg",
+      "sort_weight": "3"
+    },
+    {
+      "id": "2002",
+      "parent_id": "1000",
+      "title": "আয়রে আয় টিয়ে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/02.jpg",
+      "sort_weight": "4"
+    },
+    {
+      "id": "2003",
+      "parent_id": "1000",
+      "title": "আতা গাছে তোতা পাখি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/03.jpg",
+      "sort_weight": "5"
+    },
+    {
+      "id": "2004",
+      "parent_id": "1000",
+      "title": "আয় আয় চাঁদ মামা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/04.jpg",
+      "sort_weight": "6"
+    },
+    {
+      "id": "2005",
+      "parent_id": "1000",
+      "title": "বাক বাকুম পায়রা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/05.jpg",
+      "sort_weight": "7"
+    },
+    {
+      "id": "2006",
+      "parent_id": "1000",
+      "title": "হাট্টিমা টিম টিম",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/06.jpg",
+      "sort_weight": "8"
+    },
+    {
+      "id": "2007",
+      "parent_id": "1000",
+      "title": "আয় ছেলেরা আয় মেয়েরা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/07.jpg",
+      "sort_weight": "9"
+    },
+    {
+      "id": "2008",
+      "parent_id": "1000",
+      "title": "নোটন নোটন পায়রাগুলো",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/08.jpg",
+      "sort_weight": "10"
+    },
+    {
+      "id": "2009",
+      "parent_id": "1000",
+      "title": "আগডুম বাগডুম ঘোড়াডুম",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/09.jpg",
+      "sort_weight": "11"
+    },
+    {
+      "id": "2010",
+      "parent_id": "1000",
+      "title": "কাঠবিড়ালি কাঠবিড়ালি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/10.jpg",
+      "sort_weight": "12"
+    },
+    {
+      "id": "2011",
+      "parent_id": "1000",
+      "title": "ঘুমপাড়ানি মাসিপিসি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/11.jpg",
+      "sort_weight": "13"
+    },
+    {
+      "id": "2012",
+      "parent_id": "1000",
+      "title": "চাঁদ উঠেছে ফুল ফুটেছে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/12.jpg",
+      "sort_weight": "14"
+    },
+    {
+      "id": "2013",
+      "parent_id": "1000",
+      "title": "খোকা ঘুমালো পাড়া জুড়ালো",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/13.jpg",
+      "sort_weight": "15"
+    },
+    {
+      "id": "2014",
+      "parent_id": "1000",
+      "title": "গোল করোনা গোল করোনা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/14.jpg",
+      "sort_weight": "16"
+    },
+    {
+      "id": "2015",
+      "parent_id": "1000",
+      "title": "তাঁতির বাড়ি ব্যাঙের বাসা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/15.jpg",
+      "sort_weight": "17"
+    },
+    {
+      "id": "2016",
+      "parent_id": "1000",
+      "title": "আমি হব",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/16.jpg",
+      "sort_weight": "18"
+    },
+    {
+      "id": "2017",
+      "parent_id": "1000",
+      "title": "তাই তাই তাই পুরাতন",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/17.jpg",
+      "sort_weight": "19"
+    },
+    {
+      "id": "2018",
+      "parent_id": "1000",
+      "title": "তাই তাই তাই নতুন",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/18.jpg",
+      "sort_weight": "20"
+    },
+    {
+      "id": "2019",
+      "parent_id": "1000",
+      "title": "কানা বগীর ছা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/19.jpg",
+      "sort_weight": "21"
+    },
+    {
+      "id": "2020",
+      "parent_id": "1000",
+      "title": "আমাদের ছোট নদী",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/20.jpg",
+      "sort_weight": "22"
+    },
+    {
+      "id": "2021",
+      "parent_id": "1000",
+      "title": "খোকন খোকন ডাক পাড়ি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/21.jpg",
+      "sort_weight": "23"
+    },
+    {
+      "id": "2022",
+      "parent_id": "1000",
+      "title": "খোকন খোকন করে মায়",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/22.jpg",
+      "sort_weight": "24"
+    },
+    {
+      "id": "2023",
+      "parent_id": "1000",
+      "title": "ওখানে কে রে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/23.jpg",
+      "sort_weight": "25"
+    },
+    {
+      "id": "2024",
+      "parent_id": "1000",
+      "title": "আমার পণ",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/24.jpg",
+      "sort_weight": "26"
+    },
+    {
+      "id": "2025",
+      "parent_id": "1000",
+      "title": "প্রভাতী",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/25.jpg",
+      "sort_weight": "27"
+    },
+    {
+      "id": "2026",
+      "parent_id": "1000",
+      "title": "আদর্শ ছেলে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/26.jpg",
+      "sort_weight": "28"
+    },
+    {
+      "id": "2027",
+      "parent_id": "1000",
+      "title": "আকাশ ঘিরে মেঘ করেছে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/27.jpg",
+      "sort_weight": "29"
+    },
+    {
+      "id": "2028",
+      "parent_id": "1000",
+      "title": "আমাদের দেশ",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/28.jpg",
+      "sort_weight": "30"
+    },
+    {
+      "id": "2029",
+      "parent_id": "1000",
+      "title": "আয় বৃষ্টি ঝেঁপে জামাইবাবু ",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/29.jpg",
+      "sort_weight": "31"
+    },
+    {
+      "id": "2030",
+      "parent_id": "1000",
+      "title": "আয় বৃষ্টি ঝেঁপে করমচা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/30.jpg",
+      "sort_weight": "32"
+    },
+    {
+      "id": "2031",
+      "parent_id": "1000",
+      "title": "আয়রে পাখি লেজ ঝোলা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/31.jpg",
+      "sort_weight": "33"
+    },
+    {
+      "id": "2032",
+      "parent_id": "1000",
+      "title": "বাবুরাম সাপুড়ে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/32.jpg",
+      "sort_weight": "34"
+    },
+    {
+      "id": "2033",
+      "parent_id": "1000",
+      "title": "বড় কেহরিশ্চন্দ্র মিত্র",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/33.jpg",
+      "sort_weight": "35"
+    },
+    {
+      "id": "2034",
+      "parent_id": "1000",
+      "title": "চল চল চল রণসঙ্গীত",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/34.jpg",
+      "sort_weight": "36"
+    },
+    {
+      "id": "2035",
+      "parent_id": "1000",
+      "title": "হনহন পনপন",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/35.jpg",
+      "sort_weight": "37"
+    },
+    {
+      "id": "2036",
+      "parent_id": "1000",
+      "title": "ছুটি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/36.jpg",
+      "sort_weight": "38"
+    },
+    {
+      "id": "2037",
+      "parent_id": "1000",
+      "title": "দোল দোল দুলুনি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/37.jpg",
+      "sort_weight": "39"
+    },
+    {
+      "id": "2038",
+      "parent_id": "1000",
+      "title": "ইতল বিতল গাছের পাতা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/38.jpg",
+      "sort_weight": "40"
+    },
+    {
+      "id": "2039",
+      "parent_id": "1000",
+      "title": "ঝড় এলো এলো ঝড়",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/39.jpg",
+      "sort_weight": "41"
+    },
+    {
+      "id": "2040",
+      "parent_id": "1000",
+      "title": "ঝুমকো জবাফররুখ আহমদ",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/40.jpg",
+      "sort_weight": "42"
+    },
+    {
+      "id": "2041",
+      "parent_id": "1000",
+      "title": "কাজের আনন্দনবকৃষ্ণ ভট্টাচার্য",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/41.jpg",
+      "sort_weight": "43"
+    },
+    {
+      "id": "2042",
+      "parent_id": "1000",
+      "title": "কাজলা দিদি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/42.jpg",
+      "sort_weight": "44"
+    },
+    {
+      "id": "2043",
+      "parent_id": "1000",
+      "title": "কে মেরেছে কে বকেছে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/43.jpg",
+      "sort_weight": "45"
+    },
+    {
+      "id": "2044",
+      "parent_id": "1000",
+      "title": "খোকা গেছে মাছ ধরতে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/44.jpg",
+      "sort_weight": "46"
+    },
+    {
+      "id": "2045",
+      "parent_id": "1000",
+      "title": "খোকা যাবে শ্বশুরবাড়ি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/45.jpg",
+      "sort_weight": "47"
+    },
+    {
+      "id": "2046",
+      "parent_id": "1000",
+      "title": "কমলাফুলি",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/46.jpg",
+      "sort_weight": "48"
+    },
+    {
+      "id": "2047",
+      "parent_id": "1000",
+      "title": "মাছ হয় জলের রাণী",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/47.jpg",
+      "sort_weight": "49"
+    },
+    {
+      "id": "2048",
+      "parent_id": "1000",
+      "title": "মোদের বাংলা ভাষা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/48.jpg",
+      "sort_weight": "50"
+    },
+    {
+      "id": "2049",
+      "parent_id": "1000",
+      "title": "ইচ্ছা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/49.jpg",
+      "sort_weight": "51"
+    },
+    {
+      "id": "2050",
+      "parent_id": "1000",
+      "title": "নেমন্তন্ন",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/50.jpg",
+      "sort_weight": "52"
+    },
+    {
+      "id": "2051",
+      "parent_id": "1000",
+      "title": "পালকি চলে",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/51.jpg",
+      "sort_weight": "53"
+    },
+    {
+      "id": "2052",
+      "parent_id": "1000",
+      "title": "ট্রেন",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/52.jpg",
+      "sort_weight": "54"
+    },
+    {
+      "id": "2053",
+      "parent_id": "1000",
+      "title": "প্রার্থনা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/53.jpg",
+      "sort_weight": "55"
+    },
+    {
+      "id": "2054",
+      "parent_id": "1000",
+      "title": "সংকল্প",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/54.jpg",
+      "sort_weight": "56"
+    },
+    {
+      "id": "2055",
+      "parent_id": "1000",
+      "title": "রামগরুড়ের ছানা",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/55.jpg",
+      "sort_weight": "57"
+    },
+    {
+      "id": "2056",
+      "parent_id": "1000",
+      "title": "টাট্টু ঘোড়া পাড়লো ডিম",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Thumbnail/56.jpg",
+      "sort_weight": "58"
+    },
+    {
+      "id": "1001",
+      "parent_id": "0",
+      "title": "English",
+      "icon": "",
+      "sort_weight": "2"
+    },
+    {
+      "id": "2057",
+      "parent_id": "1001",
+      "title": "Twinkle, Twinkle",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "59"
+    },
+    {
+      "id": "2058",
+      "parent_id": "1001",
+      "title": "Johny, Johny!",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "60"
+    },
+    {
+      "id": "2059",
+      "parent_id": "1001",
+      "title": "Jack and Jill",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "61"
+    },
+    {
+      "id": "2060",
+      "parent_id": "1001",
+      "title": "Baa Baa Black sheep",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "62"
+    },
+    {
+      "id": "2061",
+      "parent_id": "1001",
+      "title": "Humpty Dumpty",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "63"
+    },
+    {
+      "id": "2062",
+      "parent_id": "1001",
+      "title": "Little Bo Peep",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "64"
+    },
+    {
+      "id": "2063",
+      "parent_id": "1001",
+      "title": "Ding, Dong Bell",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "65"
+    },
+    {
+      "id": "2064",
+      "parent_id": "1001",
+      "title": "Hickory Dickory Dock",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "66"
+    },
+    {
+      "id": "2065",
+      "parent_id": "1001",
+      "title": "ABC Phonic Song",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "67"
+    },
+    {
+      "id": "2066",
+      "parent_id": "1001",
+      "title": "Rain, Rain Go Away",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "68"
+    },
+    {
+      "id": "2067",
+      "parent_id": "1001",
+      "title": "One two Buckle My Shoe",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "69"
+    },
+    {
+      "id": "2068",
+      "parent_id": "1001",
+      "title": "Chubby Cheeks",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "70"
+    },
+    {
+      "id": "2069",
+      "parent_id": "1001",
+      "title": "Boys And Girls Come Out To Play",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "71"
+    },
+    {
+      "id": "2070",
+      "parent_id": "1001",
+      "title": "Mary Had A Little Lamb",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "72"
+    },
+    {
+      "id": "2071",
+      "parent_id": "1001",
+      "title": "A wise Old Owl",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "73"
+    },
+    {
+      "id": "2072",
+      "parent_id": "1001",
+      "title": "Peter Piper",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "74"
+    },
+    {
+      "id": "2073",
+      "parent_id": "1001",
+      "title": "Pussy Cat",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "75"
+    },
+    {
+      "id": "2074",
+      "parent_id": "1001",
+      "title": "Roses Are Red",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "76"
+    },
+    {
+      "id": "2075",
+      "parent_id": "1001",
+      "title": "Row, Row, Row Your Boat",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "77"
+    },
+    {
+      "id": "2076",
+      "parent_id": "1001",
+      "title": "I'm A Little Teapot",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "78"
+    },
+    {
+      "id": "2077",
+      "parent_id": "1001",
+      "title": "Are You Sleeping",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "79"
+    },
+    {
+      "id": "2078",
+      "parent_id": "1001",
+       "title": "Bow-Wow, Says the dog",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "80"
+    },
+    {
+      "id": "2079",
+      "parent_id": "1001",
+    "title": "The itsy Bitsy Spider",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "81"
+    },
+    {
+      "id": "2080",
+      "parent_id": "1001",
+     "title": "I Have A Little Doggy",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "82"
+    },
+    {
+      "id": "2081",
+      "parent_id": "1001",
+     "title": "Four Little paper dolls",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "83"
+    },
+    {
+      "id": "2082",
+      "parent_id": "1001",
+      "title": "It's raining, It's pouring",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "84"
+    },
+    {
+      "id": "2083",
+      "parent_id": "1001",
+      "title": "Muffin Man",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "85"
+    },
+    {
+      "id": "2084",
+      "parent_id": "1001",
+        "title": "The Ands Go Marching",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "86"
+    },
+    {
+      "id": "2085",
+      "parent_id": "1001",
+      "title": "Little Jack Horner",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "87"
+    },
+    {
+      "id": "2086",
+      "parent_id": "1001",
+      "title": "Once I Caught A Fish Alive",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/Thumbnail/k3.jpg",
+      "sort_weight": "88"
+    }
+  ],
+  "Collection": [
+    {
+      "id": "4001",
+      "category_id": "2001",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/01.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/01.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4002",
+      "category_id": "2002",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/02.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/02.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4003",
+      "category_id": "2003",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/03.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/03.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4004",
+      "category_id": "2004",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/04.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/04.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4005",
+      "category_id": "2005",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/05.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/05.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4006",
+      "category_id": "2006",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/06.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/06.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4007",
+      "category_id": "2007",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/07.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/07.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4008",
+      "category_id": "2008",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/08.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/08.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4009",
+      "category_id": "2009",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/09.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/09.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4010",
+      "category_id": "2010",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/10.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/10.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4011",
+      "category_id": "2011",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/11.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/11.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4012",
+      "category_id": "2012",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/12.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/12.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4013",
+      "category_id": "2013",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/13.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/13.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4014",
+      "category_id": "2014",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/14.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/14.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4015",
+      "category_id": "2015",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/15.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/15.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4016",
+      "category_id": "2016",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/16.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/16.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4017",
+      "category_id": "2017",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/17.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/17.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4018",
+      "category_id": "2018",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/18.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/18.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4019",
+      "category_id": "2019",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/19.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/19.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4020",
+      "category_id": "2020",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/20.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/20.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4021",
+      "category_id": "2021",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/21.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/21.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4022",
+      "category_id": "2022",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/22.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/22.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4023",
+      "category_id": "2023",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/23.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/23.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4024",
+      "category_id": "2024",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/24.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/24.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4025",
+      "category_id": "2025",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/25.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/25.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4026",
+      "category_id": "2026",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/26.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/26.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4027",
+      "category_id": "2027",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/27.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/27.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4028",
+      "category_id": "2028",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/28.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/28.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4029",
+      "category_id": "2029",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/29.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/29.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4030",
+      "category_id": "2030",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/30.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/30.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4031",
+      "category_id": "2031",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/31.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/31.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4032",
+      "category_id": "2032",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/32.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/32.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4033",
+      "category_id": "2033",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/33.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/33.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4034",
+      "category_id": "2034",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/34.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/34.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4035",
+      "category_id": "2035",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/35.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/35.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4036",
+      "category_id": "2036",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/36.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/36.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4037",
+      "category_id": "2037",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/37.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/37.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4038",
+      "category_id": "2038",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/38.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/38.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4039",
+      "category_id": "2039",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/39.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/39.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4040",
+      "category_id": "2040",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/40.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/40.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4041",
+      "category_id": "2041",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/41.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/41.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4042",
+      "category_id": "2042",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/42.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/42.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4043",
+      "category_id": "2043",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/43.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/43.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4044",
+      "category_id": "2044",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/44.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/44.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4045",
+      "category_id": "2045",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/45.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/45.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4046",
+      "category_id": "2046",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/46.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/46.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4047",
+      "category_id": "2047",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/47.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/47.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4048",
+      "category_id": "2048",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/48.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/48.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4049",
+      "category_id": "2049",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/49.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/49.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4050",
+      "category_id": "2050",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/50.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/50.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4051",
+      "category_id": "2051",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/51.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/51.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4052",
+      "category_id": "2052",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/52.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/52.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4053",
+      "category_id": "2053",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/53.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/53.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4054",
+      "category_id": "2054",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/54.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/54.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4055",
+      "category_id": "2055",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/55.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/55.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4056",
+      "category_id": "2056",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Audio\/56.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/Bangla\/Img\/56.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4057",
+      "category_id": "2057",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes1.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k1.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4058",
+      "category_id": "2058",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes2.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k2.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4059",
+      "category_id": "2059",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes3.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k3.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4060",
+      "category_id": "2060",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes4.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k4.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4061",
+      "category_id": "2061",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes5.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k5.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4062",
+      "category_id": "2062",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes59.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k59.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4063",
+      "category_id": "2063",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes6.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k6.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4064",
+      "category_id": "2064",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes7.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k7.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4065",
+      "category_id": "2065",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes9.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k9.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4066",
+      "category_id": "2066",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes10.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k10.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4067",
+      "category_id": "2067",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes11.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k11.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4068",
+      "category_id": "2068",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes18.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k18.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4069",
+      "category_id": "2069",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes21.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k21.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4070",
+      "category_id": "2070",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes23.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k23.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4071",
+      "category_id": "2071",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes24.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k24.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4072",
+      "category_id": "2072",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes26.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k26.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4073",
+      "category_id": "2073",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes28.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k28.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4074",
+      "category_id": "2074",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes29.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k29.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4075",
+      "category_id": "2075",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes31.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k31.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4076",
+      "category_id": "2076",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes33.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k33.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4077",
+      "category_id": "2077",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes34.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k34.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4078",
+      "category_id": "2078",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes35.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k35.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4079",
+      "category_id": "2079",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes40.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k40.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4080",
+      "category_id": "2080",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https43:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k43.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4081",
+      "category_id": "2081",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes44.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k44.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4082",
+      "category_id": "2082",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes45.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k45.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4083",
+      "category_id": "2083",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes48.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k48.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4084",
+      "category_id": "2084",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes49.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k49.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4085",
+      "category_id": "2085",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes53.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k53.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    },
+    {
+      "id": "4086",
+      "category_id": "2086",
+      "descr": "<!DOCTYPE html><html> <head> <meta charset=\"UTF-8\" > <style>#audio{text-align: center; padding: 10px; outline: 2px dashed #000;}#pos{text-align: center; padding: 10px; margin-top: 15px; outline: 2px dashed #000;}<\/style> <\/head> <body style=\"background-color: transparent;\"> <div id=\"audio\"> <audio controls controlsList=\"nodownload\" style=\"width: 100%\"> <source src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Audio\/rhymes54.mp3\" type=\"audio\/mpeg\" > <\/audio> <\/div><div id=\"pos\"> <img src=\"https:\/\/rifatranabd.github.io\/Children-s-Book\/English\/Image\/k54.jpg\" width=\"100%\" height=\"100%\"> <\/div><\/body><\/html>",
+      "answer": null,
+      "total_up_vote": "0",
+      "total_down_vote": "0"
+    }
+  ],
+  "app_data_date_time": "2020-11-25 06:05:00",
+  "success": true
+}
