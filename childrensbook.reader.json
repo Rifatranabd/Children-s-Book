@@ -4,14 +4,14 @@
       "id": "1000",
       "parent_id": "0",
       "title": "বাংলা",
-      "icon": "file:///android_asset/language/bangla.png",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/Bangla/Bangla.jpg",
       "sort_weight": "1"
     },
 	{
       "id": "1001",
       "parent_id": "0",
       "title": "English",
-      "icon": "file:///android_asset/language/english.jpg",
+      "icon": "https://rifatranabd.github.io/Children-s-Book/English/English.jpg",
       "sort_weight": "2"
     },
     {
